@@ -1,0 +1,1 @@
+java -cp ATM.jar:conf nxt.Nxt

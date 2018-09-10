@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="258dc772-f0e4-4b72-a62e-318901a8e66e" name="Default" comment="" />
+    <ignored path="src.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Nxt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/Nxt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4478">
+              <caret line="225" column="48" selection-start-line="225" selection-start-column="48" selection-end-line="225" selection-end-column="48" />
+              <folding>
+                <element signature="e#2559#2560#0" expanded="true" />
+                <element signature="e#2611#2612#0" expanded="true" />
+                <element signature="e#4512#4513#0" expanded="true" />
+                <element signature="e#4563#4564#0" expanded="true" />
+                <element signature="e#4629#4630#0" expanded="true" />
+                <element signature="e#4689#4690#0" expanded="true" />
+                <element signature="e#4757#4758#0" expanded="true" />
+                <element signature="e#4818#4819#0" expanded="true" />
+                <element signature="e#4926#4927#0" expanded="true" />
+                <element signature="e#4958#4959#0" expanded="true" />
+                <element signature="e#5020#5021#0" expanded="true" />
+                <element signature="e#5060#5061#0" expanded="true" />
+                <element signature="e#5100#5101#0" expanded="true" />
+                <element signature="e#5137#5138#0" expanded="true" />
+                <element signature="e#5175#5176#0" expanded="true" />
+                <element signature="e#5206#5207#0" expanded="true" />
+                <element signature="e#5379#5380#0" expanded="true" />
+                <element signature="e#5425#5426#0" expanded="true" />
+                <element signature="e#5620#5621#0" expanded="true" />
+                <element signature="e#5647#5648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OCLPoC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/OCLPoC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1024">
+              <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransactionProcessorImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/TransactionProcessorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="31" column="123" selection-start-line="31" selection-start-column="123" selection-end-line="31" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Db.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/db/Db.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="API.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/http/API.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="107" column="94" selection-start-line="107" selection-start-column="94" selection-end-line="107" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APITestServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/http/APITestServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4786">
+              <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/peer/PeerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="314" column="30" selection-start-line="314" selection-start-column="30" selection-end-line="314" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Peers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/peer/Peers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="177" column="57" selection-start-line="177" selection-start-column="57" selection-end-line="177" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Users.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/nxt/user/Users.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="132" column="99" selection-start-line="132" selection-start-column="99" selection-end-line="132" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Convert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/nxt/util/Convert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+              <folding>
+                <element signature="e#3055#3056#0" expanded="true" />
+                <element signature="e#3113#3114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java/nxt/Account.java" />
+        <option value="$PROJECT_DIR$/java/nxt/Attachment.java" />
+        <option value="$PROJECT_DIR$/java/nxt/BlockImpl.java" />
+        <option value="$PROJECT_DIR$/java/nxt/Constants.java" />
+        <option value="$PROJECT_DIR$/java/nxt/Escrow.java" />
+        <option value="$PROJECT_DIR$/java/nxt/Subscription.java" />
+        <option value="$PROJECT_DIR$/java/nxt/TransactionType.java" />
+        <option value="$PROJECT_DIR$/java/nxt/http/SendMoneySubscription.java" />
+        <option value="$PROJECT_DIR$/java/nxt/BlockchainProcessorImpl.java" />
+        <option value="$PROJECT_DIR$/java/nxt/http/SetRewardRecipient.java" />
+        <option value="$PROJECT_DIR$/java/nxt/Nxt.java" />
+        <option value="$PROJECT_DIR$/java/nxt/OCLPoC.java" />
+        <option value="$PROJECT_DIR$/java/nxt/TransactionProcessorImpl.java" />
+        <option value="$PROJECT_DIR$/java/nxt/db/Db.java" />
+        <option value="$PROJECT_DIR$/java/nxt/http/API.java" />
+        <option value="$PROJECT_DIR$/java/nxt/http/APITestServlet.java" />
+        <option value="$PROJECT_DIR$/java/nxt/peer/PeerImpl.java" />
+        <option value="$PROJECT_DIR$/java/nxt/peer/Peers.java" />
+        <option value="$PROJECT_DIR$/java/nxt/user/Users.java" />
+        <option value="$PROJECT_DIR$/java/nxt/util/Convert.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="59" />
+    <option name="width" value="1552" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258dc772-f0e4-4b72-a62e-318901a8e66e" name="Default" comment="" />
+      <created>1496347565156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496347565156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="59" width="1552" height="971" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/nxt/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="534" column="83" selection-start-line="534" selection-start-column="83" selection-end-line="534" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/Attachment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="1564" column="38" selection-start-line="1564" selection-start-column="38" selection-end-line="1564" selection-end-column="38" />
+          <folding>
+            <element signature="e#50364#50365#0" expanded="true" />
+            <element signature="e#50400#50401#0" expanded="true" />
+            <element signature="e#50879#50880#0" expanded="true" />
+            <element signature="e#50963#50964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/BlockImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="389" column="60" selection-start-line="389" selection-start-column="60" selection-end-line="389" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="83" column="59" selection-start-line="83" selection-start-column="59" selection-end-line="83" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/Escrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="99" column="74" selection-start-line="99" selection-start-column="74" selection-end-line="99" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/Subscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/TransactionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1750" column="35" selection-start-line="1750" selection-start-column="35" selection-end-line="1750" selection-end-column="35" />
+          <folding>
+            <element signature="e#12230#12231#0" expanded="true" />
+            <element signature="e#12258#12259#0" expanded="true" />
+            <element signature="e#12723#12724#0" expanded="true" />
+            <element signature="e#12747#12748#0" expanded="true" />
+            <element signature="e#12799#12800#0" expanded="true" />
+            <element signature="e#12873#12874#0" expanded="true" />
+            <element signature="e#13270#13271#0" expanded="true" />
+            <element signature="e#13329#13330#0" expanded="true" />
+            <element signature="e#13447#13448#0" expanded="true" />
+            <element signature="e#13482#13483#0" expanded="true" />
+            <element signature="e#13811#13812#0" expanded="true" />
+            <element signature="e#13846#13847#0" expanded="true" />
+            <element signature="e#13986#13987#0" expanded="true" />
+            <element signature="e#14073#14074#0" expanded="true" />
+            <element signature="e#15061#15062#0" expanded="true" />
+            <element signature="e#15122#15123#0" expanded="true" />
+            <element signature="e#15240#15241#0" expanded="true" />
+            <element signature="e#15275#15276#0" expanded="true" />
+            <element signature="e#15550#15551#0" expanded="true" />
+            <element signature="e#15640#15641#0" expanded="true" />
+            <element signature="e#16970#16971#0" expanded="true" />
+            <element signature="e#17013#17014#0" expanded="true" />
+            <element signature="e#17175#17176#0" expanded="true" />
+            <element signature="e#17264#17265#0" expanded="true" />
+            <element signature="e#19952#19953#0" expanded="true" />
+            <element signature="e#19996#19997#0" expanded="true" />
+            <element signature="e#20152#20153#0" expanded="true" />
+            <element signature="e#20235#20236#0" expanded="true" />
+            <element signature="e#23784#23785#0" expanded="true" />
+            <element signature="e#23827#23828#0" expanded="true" />
+            <element signature="e#23982#23983#0" expanded="true" />
+            <element signature="e#24064#24065#0" expanded="true" />
+            <element signature="e#27657#27658#0" expanded="true" />
+            <element signature="e#27700#27701#0" expanded="true" />
+            <element signature="e#27858#27859#0" expanded="true" />
+            <element signature="e#27944#27945#0" expanded="true" />
+            <element signature="e#30178#30179#0" expanded="true" />
+            <element signature="e#30222#30223#0" expanded="true" />
+            <element signature="e#30380#30381#0" expanded="true" />
+            <element signature="e#30465#30466#0" expanded="true" />
+            <element signature="e#32584#32585#0" expanded="true" />
+            <element signature="e#32628#32629#0" expanded="true" />
+            <element signature="e#32790#32791#0" expanded="true" />
+            <element signature="e#32879#32880#0" expanded="true" />
+            <element signature="e#35200#35201#0" expanded="true" />
+            <element signature="e#35244#35245#0" expanded="true" />
+            <element signature="e#35390#35391#0" expanded="true" />
+            <element signature="e#35475#35476#0" expanded="true" />
+            <element signature="e#37076#37077#0" expanded="true" />
+            <element signature="e#37120#37121#0" expanded="true" />
+            <element signature="e#37304#37305#0" expanded="true" />
+            <element signature="e#37369#37370#0" expanded="true" />
+            <element signature="e#37520#37521#0" expanded="true" />
+            <element signature="e#37611#37612#0" expanded="true" />
+            <element signature="e#37676#37677#0" expanded="true" />
+            <element signature="e#37742#37743#0" expanded="true" />
+            <element signature="e#37803#37804#0" expanded="true" />
+            <element signature="e#37865#37866#0" expanded="true" />
+            <element signature="e#38514#38515#0" expanded="true" />
+            <element signature="e#38557#38558#0" expanded="true" />
+            <element signature="e#40583#40584#0" expanded="true" />
+            <element signature="e#40627#40628#0" expanded="true" />
+            <element signature="e#40790#40791#0" expanded="true" />
+            <element signature="e#40881#40882#0" expanded="true" />
+            <element signature="e#44715#44716#0" expanded="true" />
+            <element signature="e#44758#44759#0" expanded="true" />
+            <element signature="e#46116#46117#0" expanded="true" />
+            <element signature="e#46160#46161#0" expanded="true" />
+            <element signature="e#46354#46355#0" expanded="true" />
+            <element signature="e#46450#46451#0" expanded="true" />
+            <element signature="e#48727#48728#0" expanded="true" />
+            <element signature="e#48823#48824#0" expanded="true" />
+            <element signature="e#51079#51080#0" expanded="true" />
+            <element signature="e#51122#51123#0" expanded="true" />
+            <element signature="e#51325#51326#0" expanded="true" />
+            <element signature="e#51369#51370#0" expanded="true" />
+            <element signature="e#51569#51570#0" expanded="true" />
+            <element signature="e#51668#51669#0" expanded="true" />
+            <element signature="e#53888#53889#0" expanded="true" />
+            <element signature="e#53987#53988#0" expanded="true" />
+            <element signature="e#56216#56217#0" expanded="true" />
+            <element signature="e#56281#56282#0" expanded="true" />
+            <element signature="e#56393#56394#0" expanded="true" />
+            <element signature="e#56428#56429#0" expanded="true" />
+            <element signature="e#57409#57410#0" expanded="true" />
+            <element signature="e#57493#57494#0" expanded="true" />
+            <element signature="e#59408#59409#0" expanded="true" />
+            <element signature="e#59452#59453#0" expanded="true" />
+            <element signature="e#59610#59611#0" expanded="true" />
+            <element signature="e#59696#59697#0" expanded="true" />
+            <element signature="e#61910#61911#0" expanded="true" />
+            <element signature="e#61954#61955#0" expanded="true" />
+            <element signature="e#62115#62116#0" expanded="true" />
+            <element signature="e#62204#62205#0" expanded="true" />
+            <element signature="e#64636#64637#0" expanded="true" />
+            <element signature="e#64680#64681#0" expanded="true" />
+            <element signature="e#64844#64845#0" expanded="true" />
+            <element signature="e#64936#64937#0" expanded="true" />
+            <element signature="e#67485#67486#0" expanded="true" />
+            <element signature="e#67529#67530#0" expanded="true" />
+            <element signature="e#67686#67687#0" expanded="true" />
+            <element signature="e#67771#67772#0" expanded="true" />
+            <element signature="e#71607#71608#0" expanded="true" />
+            <element signature="e#71650#71651#0" expanded="true" />
+            <element signature="e#71807#71808#0" expanded="true" />
+            <element signature="e#71892#71893#0" expanded="true" />
+            <element signature="e#74713#74714#0" expanded="true" />
+            <element signature="e#74756#74757#0" expanded="true" />
+            <element signature="e#74913#74914#0" expanded="true" />
+            <element signature="e#74998#74999#0" expanded="true" />
+            <element signature="e#77974#77975#0" expanded="true" />
+            <element signature="e#78017#78018#0" expanded="true" />
+            <element signature="e#78172#78173#0" expanded="true" />
+            <element signature="e#78255#78256#0" expanded="true" />
+            <element signature="e#81856#81857#0" expanded="true" />
+            <element signature="e#81899#81900#0" expanded="true" />
+            <element signature="e#82096#82097#0" expanded="true" />
+            <element signature="e#82163#82164#0" expanded="true" />
+            <element signature="e#82281#82282#0" expanded="true" />
+            <element signature="e#82316#82317#0" expanded="true" />
+            <element signature="e#82604#82605#0" expanded="true" />
+            <element signature="e#82708#82709#0" expanded="true" />
+            <element signature="e#85158#85159#0" expanded="true" />
+            <element signature="e#85201#85202#0" expanded="true" />
+            <element signature="e#85384#85385#0" expanded="true" />
+            <element signature="e#85437#85438#0" expanded="true" />
+            <element signature="e#85554#85555#0" expanded="true" />
+            <element signature="e#85580#85581#0" expanded="true" />
+            <element signature="e#85851#85852#0" expanded="true" />
+            <element signature="e#85937#85938#0" expanded="true" />
+            <element signature="e#88638#88639#0" expanded="true" />
+            <element signature="e#88681#88682#0" expanded="true" />
+            <element signature="e#88849#88850#0" expanded="true" />
+            <element signature="e#88902#88903#0" expanded="true" />
+            <element signature="e#89038#89039#0" expanded="true" />
+            <element signature="e#89112#89113#0" expanded="true" />
+            <element signature="e#91628#91629#0" expanded="true" />
+            <element signature="e#91651#91652#0" expanded="true" />
+            <element signature="e#94135#94136#0" expanded="true" />
+            <element signature="e#94157#94158#0" expanded="true" />
+            <element signature="e#94294#94295#0" expanded="true" />
+            <element signature="e#94364#94365#0" expanded="true" />
+            <element signature="e#94932#94933#0" expanded="true" />
+            <element signature="e#94954#94955#0" expanded="true" />
+            <element signature="e#97616#97617#0" expanded="true" />
+            <element signature="e#97639#97640#0" expanded="true" />
+            <element signature="e#97778#97779#0" expanded="true" />
+            <element signature="e#97850#97851#0" expanded="true" />
+            <element signature="e#98426#98427#0" expanded="true" />
+            <element signature="e#98449#98450#0" expanded="true" />
+            <element signature="e#98802#98803#0" expanded="true" />
+            <element signature="e#98824#98825#0" expanded="true" />
+            <element signature="e#99077#99078#0" expanded="true" />
+            <element signature="e#99099#99100#0" expanded="true" />
+            <element signature="e#99153#99154#0" expanded="true" />
+            <element signature="e#99176#99177#0" expanded="true" />
+            <element signature="e#99324#99325#0" expanded="true" />
+            <element signature="e#99405#99406#0" expanded="true" />
+            <element signature="e#100017#100018#0" expanded="true" />
+            <element signature="e#100039#100040#0" expanded="true" />
+            <element signature="e#100707#100708#0" expanded="true" />
+            <element signature="e#100730#100731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/http/SendMoneySubscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/BlockchainProcessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="48" column="129" selection-start-line="48" selection-start-column="129" selection-end-line="48" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/http/SetRewardRecipient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/Nxt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4478">
+          <caret line="225" column="48" selection-start-line="225" selection-start-column="48" selection-end-line="225" selection-end-column="48" />
+          <folding>
+            <element signature="e#2559#2560#0" expanded="true" />
+            <element signature="e#2611#2612#0" expanded="true" />
+            <element signature="e#4512#4513#0" expanded="true" />
+            <element signature="e#4563#4564#0" expanded="true" />
+            <element signature="e#4629#4630#0" expanded="true" />
+            <element signature="e#4689#4690#0" expanded="true" />
+            <element signature="e#4757#4758#0" expanded="true" />
+            <element signature="e#4818#4819#0" expanded="true" />
+            <element signature="e#4926#4927#0" expanded="true" />
+            <element signature="e#4958#4959#0" expanded="true" />
+            <element signature="e#5020#5021#0" expanded="true" />
+            <element signature="e#5060#5061#0" expanded="true" />
+            <element signature="e#5100#5101#0" expanded="true" />
+            <element signature="e#5137#5138#0" expanded="true" />
+            <element signature="e#5175#5176#0" expanded="true" />
+            <element signature="e#5206#5207#0" expanded="true" />
+            <element signature="e#5379#5380#0" expanded="true" />
+            <element signature="e#5425#5426#0" expanded="true" />
+            <element signature="e#5620#5621#0" expanded="true" />
+            <element signature="e#5647#5648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/OCLPoC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/TransactionProcessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="123" selection-start-line="31" selection-start-column="123" selection-end-line="31" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/db/Db.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/http/API.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="107" column="94" selection-start-line="107" selection-start-column="94" selection-end-line="107" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/http/APITestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4786">
+          <caret line="265" column="41" selection-start-line="265" selection-start-column="41" selection-end-line="265" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/peer/PeerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="314" column="30" selection-start-line="314" selection-start-column="30" selection-end-line="314" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/peer/Peers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="177" column="57" selection-start-line="177" selection-start-column="57" selection-end-line="177" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/user/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="132" column="99" selection-start-line="132" selection-start-column="99" selection-end-line="132" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/nxt/util/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+          <folding>
+            <element signature="e#3055#3056#0" expanded="true" />
+            <element signature="e#3113#3114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
