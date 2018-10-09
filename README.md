@@ -18,5 +18,21 @@ This will start a java VM running a webserver.
 In order to access the UI, simply point your browser to http://localhost:8112 once the wallet has started and connected.
 
 
+This repo contains both the source files and a compiled .jar file with source's code. Instructions on how to compile code will be posted at a later date.
+
+
+
+
+INFO
+
+This entire chain is merely the beginning for the ATMcash project. We are now working on an entirely new backend containing multiple changes, and improvements of many kinds.
+
+Stay tuned for updates regarding this and more from ATMcash Development Team.
+
+Thank you!
+
+
 
 **This document is a work in progress and will be updated as time permits and continues.
+
+
