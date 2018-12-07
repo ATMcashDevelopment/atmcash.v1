@@ -18,7 +18,9 @@ This will start a java VM running a webserver.
 In order to access the UI, simply point your browser to http://localhost:8112 once the wallet has started and connected.
 
 
-This repo contains both the source files and a compiled .jar file with source's code. Instructions on how to compile code will be posted at a later date.
+This repo contains both the source files and a compiled .jar file with source's code. 
+
+You may also compile your own binary if you are familiar with how to do so. (Eclipse)
 
 
 
