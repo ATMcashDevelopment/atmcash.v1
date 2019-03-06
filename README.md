@@ -39,3 +39,19 @@ Thank you!
 **This document is a work in progress and will be updated as time permits and continues.
 
 
+NODES
+
+http://wallet.atmcoin.info:8112/
+
+http://wallet2.atmcoin.info:8112/
+
+http://wallet3.atmcoin.info:8112/
+
+http://wallet4.atmcoin.info:8112/
+
+http://wallet5.atmcoin.info:8112/
+
+http://node.atmcash.cc:8112
+
+
+
