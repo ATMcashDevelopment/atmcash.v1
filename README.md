@@ -1,10 +1,11 @@
 # atmcash.v1
 
-Hello and welcome to the ATMcash github. This is version 1 repositorty from the official development team. This version is a NXT clone, however, in coming versions there will be a fork over to a new codebase.
+Hello and welcome to the ATMcash github. This is version 1 repositorty from the official development team. This version is a NXT clone, with a Hard drive Mining algorithm. 
 
-This codebase is to get the project started and moving, and isn't meant to be a long-term environment.
+The project information is available https://atmcash.info
 
-The project is HDD mined utilizing the BURST algorithm for now. The algo will potentially also change in the future.
+
+The project is HDD mined utilizing the BURST algorithm. 
 
 
 GETTING STARTED
@@ -27,7 +28,7 @@ You may also compile your own binary if you are familiar with how to do so. (Ecl
 
 INFO
 
-This entire chain is merely the beginning for the ATMcash project. We are now working on an entirely new backend containing multiple changes, and improvements of many kinds.
+The project is starting now, and being planned for the future with many changes. 
 
 Stay tuned for updates regarding this and more from ATMcash Development Team.
 
