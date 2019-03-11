@@ -41,15 +41,15 @@ Thank you!
 
 NODES
 
-http://wallet.atmcoin.info:8112/
+http://wallet6.atmcoin.info:8112/
 
-http://wallet2.atmcoin.info:8112/
+http://wallet7.atmcoin.info:8112/
 
-http://wallet3.atmcoin.info:8112/
-
-http://wallet4.atmcoin.info:8112/
+http://wallet8.atmcoin.info:8112/
 
 http://wallet5.atmcoin.info:8112/
+
+http://wallet9.atmcoin.info:8112/
 
 http://node.atmcash.cc:8112
 
